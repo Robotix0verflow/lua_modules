@@ -3,32 +3,6 @@
 The following modules, created by Robotix0verflow, are intended for a Lua-to-Python compiler designed for the LEGO SPIKE Prime. These files are essential for providing IntelliSense support in VS Code with the EmmyLua extension.
 
 **Module Progress**
-<br>
-
-<style>
-.custom-table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-.custom-table th, .custom-table td {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
-
-.custom-table th {
-  background-color: #f2f2f2;
-  text-align: left;
-}
-
-.done {
-  background-color: #d4edda; /* Light green for Done */
-}
-
-.not-done {
-  background-color: #f8d7da; /* Light red for Not Done */
-}
-</style>
 
 <table class="custom-table">
   <thead>
