@@ -1,6 +1,6 @@
 # lua_modules for LEGO SPIKE Prime
 
-The following modules, created by Robotix0verflow, are intended for a Lua-to-Python compiler designed for the LEGO SPIKE Prime. These files are essential for providing IntelliSense support in VS Code with the EmmyLua extension.
+these are intended for a Lua-to-Python compiler designed for the LEGO SPIKE Prime. These files are required for IntelliSense support in VS Code with the EmmyLua extension.
 
 **Module Progress**
 
